@@ -1,3 +1,15 @@
 [submodule "nix"]
 	path = nix
 	url = git@github.com:zenzilla94/nix.git
+[submodule "tmux"]
+	path = tmux
+	url = git@github.com:zenzilla94/tmux
+[submodule "alacritty"]
+	path = alacritty
+	url = git@github.com:zenzilla94/alacritty
+[submodule "fish"]
+	path = fish
+	url = git@github.com:zenzilla94/fish
+[submodule "nixvim"]
+	path = nixvim
+	url = git@github.com:zenzilla94/nixvim
